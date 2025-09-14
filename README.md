@@ -42,6 +42,8 @@ Este repositório contém exemplos (ou pode conter) código em:
 - **Frontend**: HTML, CSS e JavaScript (ex.: páginas, componentes, animações).
 - **Backend**: serviços ou ferramentas em **Golang** ainda nos projetos futuros eu vou conseguir.
 
+##
+
 Contato & Redes 🌐
 
 <div> 
