@@ -9,10 +9,12 @@ Este projeto também faz parte do meu **portfólio pessoal**, onde compartilho u
 ## Tecnologias
 
 <div style="display: inline_block"><br>
-  <img alt="JavaScript" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Golang" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <img alt="Golang" width="48" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor"/>
   <img alt="HTML5" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS3" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="Golang" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <img alt="JavaScript" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  
 </div>
 
 ---
