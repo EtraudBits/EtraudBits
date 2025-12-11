@@ -8,9 +8,9 @@ Este projeto também faz parte do meu **portfólio pessoal**, onde compartilho u
 
 ## Tecnologias
 
-<div style="display: inline_block"><br>
-  <img alt="Golang" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-</div>
+<img src="https://stats.quine.sh/EtraudBits/github?theme=dark" height="200em" />
+<img src="https://stats.quine.sh/EtraudBits/languages?theme=dark" height="200em" />
+
 
 ---
 
