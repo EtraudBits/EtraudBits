@@ -29,7 +29,7 @@ Depois dessa experiência, atuei em diferentes áreas, do setor público à mine
 
 Este repositório contém exemplos (ou pode conter) código em:
 - **Frontend**: HTML, CSS e JavaScript (ex.: páginas, componentes, animações).
-- **Backend**: serviços ou ferramentas em (<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">) ainda nos projetos futuros eu vou conseguir.
+- **Backend**: serviços ou ferramentas em <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"> ainda nos projetos futuros eu vou conseguir.
 
 ##
 
