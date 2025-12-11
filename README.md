@@ -14,8 +14,7 @@ Este projeto também faz parte do meu **portfólio pessoal**, onde compartilho u
 
 ---
 
-<img height="200em" src="https://github-readme-stats-git-masterorg-stats.vercel.app/api?username=EtraudBits&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-<img height="200em" src="https://github-readme-stats-git-masterorg-stats.vercel.app/api/top-langs/?username=EtraudBits&theme=dark&layout=compact"/>
+<div> <a href="https://github.com/etraudbits"> <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EtraudBits&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtraudBits&theme=dark&layout=compact"/> </div>
 
 ---
 
