@@ -8,9 +8,7 @@ Este projeto também faz parte do meu **portfólio pessoal**, onde compartilho u
 
 ## Tecnologias
 
-<img src="https://stats.quine.sh/EtraudBits/github?theme=dark" height="200em" />
-<img src="https://stats.quine.sh/EtraudBits/languages?theme=dark" height="200em" />
-
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 
 ---
 
