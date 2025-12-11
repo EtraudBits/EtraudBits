@@ -8,15 +8,9 @@ Este projeto também faz parte do meu **portfólio pessoal**, onde compartilho u
 
 ---
 
-## Tecnologias
-
+## Tecnologias 
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-
----
-
-<img height="200em" src="https://github-readme-stats-etraudbits.vercel.app/api?username=EtraudBits&show_icons=true&theme=dark" />
-<img height="200em" src="https://github-readme-stats-etraudbits.vercel.app/api/top-langs/?username=EtraudBits&theme=dark&layout=compact" />
-
 
 ---
 
