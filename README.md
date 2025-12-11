@@ -14,9 +14,9 @@ Este projeto também faz parte do meu **portfólio pessoal**, onde compartilho u
 
 ---
 
-<div> <img src="https://stats.quine.sh/EtraudBits/github?theme=dark" height="200em" />
-<img src="https://stats.quine.sh/EtraudBits/languages?theme=dark" height="200em" />
- </div>
+<img height="200em" src="https://github-readme-stats-etraudbits.vercel.app/api?username=EtraudBits&show_icons=true&theme=dark" />
+<img height="200em" src="https://github-readme-stats-etraudbits.vercel.app/api/top-langs/?username=EtraudBits&theme=dark&layout=compact" />
+
 
 ---
 
