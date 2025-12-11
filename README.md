@@ -1,6 +1,7 @@
 # Olá, Seja bem vindo ao meu Github 🔨🤖🔧
 
-Um repositório demonstrativo com as tecnologia principal: *Golang**.  
+Um repositório demonstrativo com as tecnologia principal: *Golang**.  <img height="60" src="https://raw.githubusercontent.com/egonelbre/gophers/master/.svg/gopher.svg">
+
 Este projeto também faz parte do meu **portfólio pessoal**, onde compartilho um pouco da minha jornada de Esdudos e aprendizados.
 
 
@@ -9,8 +10,6 @@ Este projeto também faz parte do meu **portfólio pessoal**, onde compartilho u
 ## Tecnologias
 
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-<img height="60" src="https://raw.githubusercontent.com/egonelbre/gophers/master/.svg/gopher.svg">
-
 
 ---
 
